@@ -1,2 +1,2 @@
 # Cyclics - Nothing right now.
-Currently this mod has nothing in it, the framework is just being made and put on Github for easier access to it.
+Currently this mod has nothing really in it, planning on adding more content soon.
